@@ -52,7 +52,7 @@ Preliminary design of a tilt-rotor Air Taxi using OpenVSP, XFLR5, SimScale, and 
 
 ## 📬 Contact
 
-For queries, collaboration, or feedback, please reach out via [GitHub Issues](https://github.com/) or email: **yourname@example.com**
+For queries, collaboration, or feedback, please reach out via [GitHub Issues](https://github.com/) or email: **akshatk21@iitk.ac.in**
 
 ---
 
