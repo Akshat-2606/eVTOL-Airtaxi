@@ -32,6 +32,28 @@ Preliminary design of a tilt-rotor Air Taxi using OpenVSP, XFLR5, SimScale, and 
 - ✅ Structural analysis in **MATLAB** to identify critical regions
 
 ---
+## 📊 Outcomes
 
-## 📁 Project Structure
+- Optimized airfoil and aerodynamic layout
+- Drag estimation in cruise configuration
+- Interaction effects between tandem wings and fuselage
+- Identification of structural stress zones
+
+---
+
+## 🚀 Future Scope
+
+- Transition flight dynamics (VTOL ↔ Cruise)
+- Control surface design
+- Payload and weight optimization
+- Stability and control analysis
+
+---
+
+## 📬 Contact
+
+For queries, collaboration, or feedback, please reach out via [GitHub Issues](https://github.com/) or email: **yourname@example.com**
+
+---
+
 
